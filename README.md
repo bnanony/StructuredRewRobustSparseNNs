@@ -1,4 +1,7 @@
-![Title Image](sparse5_wb_trades_layer9.svg)
+<p align="center">
+  <img src="sparse5_wb_trades_layer9.svg" width="400" height="300" alt="Title Image">
+</p>
+
 # Structured Adversarial Rewiring for Robust and Sparse Neural Networks
 ### Benedikt Seidel
 ### Institute of Theoretical Computer Science Bachelor Thesis Biomedical Engineering Winter Semester 2022/23
